@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Release"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="HWP2TXT.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="HWP2TXT"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="115"/>
+        <CursorPos X="16" Y="59"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uhwpfile.pas"/>
+        <UnitName Value="uhwpfile"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="490"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\development\fpc\packages\fcl-base\src\custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="29"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\development\lazarus\components\lazutils\fileutil.pas"/>
+        <UnitName Value="FileUtil"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="215"/>
+        <CursorPos X="10" Y="229"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\development\fpc\rtl\objpas\sysutils\filutilh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="32"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\development\fpc\rtl\inc\astrings.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1397"/>
+        <CursorPos X="45" Y="1424"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="ukssmunicode.pas"/>
+        <UnitName Value="ukssmunicode"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="402"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\development\lazarus\components\lazutils\lazutf8classes.pas"/>
+        <UnitName Value="LazUTF8Classes"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="55" Y="13"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\development\lazarus\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="16"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="198" Column="1" TopLine="180"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="199" Column="1" TopLine="180"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="469" Column="1" TopLine="456"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="470" Column="1" TopLine="456"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="471" Column="1" TopLine="456"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="472" Column="1" TopLine="456"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="473" Column="1" TopLine="456"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="474" Column="1" TopLine="456"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="476" Column="1" TopLine="456"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="477" Column="1" TopLine="456"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="478" Column="1" TopLine="456"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="480" Column="1" TopLine="457"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="482" Column="1" TopLine="459"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="485" Column="1" TopLine="462"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="488" Column="1" TopLine="465"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="491" Column="1" TopLine="468"/>
+      </Position16>
+      <Position17>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="89" Column="1" TopLine="75"/>
+      </Position17>
+      <Position18>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="98" Column="1" TopLine="75"/>
+      </Position18>
+      <Position19>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="106" Column="1" TopLine="92"/>
+      </Position19>
+      <Position20>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="58" Column="1" TopLine="44"/>
+      </Position20>
+      <Position21>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="59" Column="1" TopLine="44"/>
+      </Position21>
+      <Position22>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="61" Column="1" TopLine="44"/>
+      </Position22>
+      <Position23>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="62" Column="1" TopLine="44"/>
+      </Position23>
+      <Position24>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="63" Column="1" TopLine="44"/>
+      </Position24>
+      <Position25>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="491" Column="1" TopLine="471"/>
+      </Position25>
+      <Position26>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="65" Column="36" TopLine="50"/>
+      </Position26>
+      <Position27>
+        <Filename Value="uhwpfile.pas"/>
+        <Caret Line="199" Column="15" TopLine="191"/>
+      </Position27>
+      <Position28>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="11" Column="29" TopLine="1"/>
+      </Position28>
+      <Position29>
+        <Filename Value="HWP2TXT.lpr"/>
+        <Caret Line="11" Column="6" TopLine="1"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
